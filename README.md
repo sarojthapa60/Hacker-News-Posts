@@ -8,4 +8,5 @@ Users submit Ask HN posts to ask the Hacker News community a specific question, 
 The goal of this project is to compare these two types of posts to determine the following:
   1. Do Ask HN or Show HN recieve more comments on average?
   2. Do posts created at a certain time receive more comments on average?
+  
 The data set can be found at Hacker News Posts. It should be noted that the data set we are working with was reduced from almost 300,000 rows to approximately 20,000 rows by removing all submissions that did not receive any comments and then randomly sampling from the remaining submissions.
