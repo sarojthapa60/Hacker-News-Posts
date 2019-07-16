@@ -1,5 +1,5 @@
 # Hacker-News-Posts
-The goal of this project is to analyze what kind of posts from Hacker News and at what time receive the most comments.
+The goal of this project is to analyze what kind of posts from [Hacker News](https://news.ycombinator.com/) and at what time receive the most comments.
 
 In this project, we will compare two different types of posts from Hacker News, a popular site where technology related stories (or posts) are voted and commented upon.The two types of posts we will explore begin with either Ask HN or Show HN.
 
